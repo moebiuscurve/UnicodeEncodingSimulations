@@ -1,4 +1,3 @@
-# UnicodeEncodingSimulations
 Unicode Encoding Simulations
 ============================
 examples:
